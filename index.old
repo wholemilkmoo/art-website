@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head><link href="styles/main.css" rel="stylesheet"></head>
+	<body>
+	<title> 🐄 Whole Milk 🥛 </title>
+	<div>
+		<style>
+		h1 {text-align: center; color:#D4F4DD;}
+		p {text-align: center; color:#D4F4DD;}
+		</style>
+		<h1> 🐮 Whole Milk's Art Website 🐮 </h1>
+	
+		<p> This is the introduction to my website! I hope you have a good time!</p>
+	</div>
+	<dl class=index>
+		<dt> <a href="https://www.youtube.com/watch?v=rTSEr0cRJY8">Test link </a></dt>
+		<dt> Poop fart butt</dt>
+	</dl>
+	<div>
+		<img src="art/doomer-smoking-hazel.png" class="imgright" width=600px>
+		<img src="construction.gif" class="con" >
+	</div>
+	</body>
+</html>
