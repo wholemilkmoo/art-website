@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head><link href="styles/gallery.css" rel="stylesheet"></head>
+	<body>
+		<div class="image-grid">
+			<a> 
+				<src="ladyface.html" title="A Random Lady">
+				<img src="art/lady-face.jpg" class="image-grid">
+			</a>
+			<a>
+				<src="jokerhazel.html" title="Joker Hazel">
+				<img src="art/joker hazelv3.png" class="image-grid">
+			</a>
+			<a>
+				<src"doomerhazel.html" title="Doomer Hazel">
+				<img src="art/doomer-smoking-hazel.png" class="image-grid">
+			</a>
+		</div>
+	</body>
+</html>
